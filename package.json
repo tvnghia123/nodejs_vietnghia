@@ -1,0 +1,28 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tvnghia123/nodejs_vietnghia.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "vietnghia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tvnghia123/nodejs_vietnghia/issues"
+  },
+  "homepage": "https://github.com/tvnghia123/nodejs_vietnghia#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
