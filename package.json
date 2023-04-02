@@ -1,7 +1,6 @@
 {
   "name": "hello",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -20,9 +19,14 @@
   },
   "homepage": "https://github.com/tvnghia123/nodejs_vietnghia#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.3",
+    "mysql": "^2.18.1",
+    "nodecalc": "^0.0.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.22"
-  }
+  },
+  "description": ""
 }
